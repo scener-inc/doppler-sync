@@ -1,5 +1,5 @@
 {
-    "name": "@webkoils/doppler-sync",
+    "name": "@scnr/doppler-sync",
     "version": "0.0.1",
     "description": "a cli tool to load doppler secrets synchronously",
     "main": "dist/index.js",
