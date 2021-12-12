@@ -1,6 +1,6 @@
 {
-    "name": "doppler-sync",
-    "version": "1.0.0",
+    "name": "@scener/doppler-sync",
+    "version": "0.0.1",
     "description": "a cli tool to load doppler secrets synchronously",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
@@ -14,11 +14,11 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+ssh://git@github.com:scener-inc/doppler-sync.git"
+        "url": "git+ssh://git@github.com:webkoils/doppler-sync.git"
     },
     "author": "",
     "license": "ISC",
-    "homepage": "https://github.com/scener-inc/doppler-sync",
+    "homepage": "https://github.com/webkoils/doppler-sync",
     "bin": {
         "doppler-sync": "./dist/bin/cli.js"
     },
