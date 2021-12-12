@@ -25,7 +25,7 @@ const getSecrets = function (options: DopplerConfigSyncGetParametersOptions): Do
             return {};
         }
     } else {
-        throw new Error("No param path specified");
+        throw new Error("No token specified");
     }
 };
 export { getSecrets };
