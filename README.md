@@ -2,9 +2,9 @@
 
 ## Set up Doppler Secret Manager
 
-[https://docs.doppler.com/docs/enclave-guide](Getting started with doppler)
+[Getting started with doppler](https://docs.doppler.com/docs/enclave-guide)
 
-[https://docs.doppler.com/docs/enclave-service-tokens](Generate a service token)
+[Generate a service token](https://docs.doppler.com/docs/enclave-service-tokens)
 
 ## Getting started - Typescript / Javascript
 
