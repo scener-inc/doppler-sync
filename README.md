@@ -11,7 +11,9 @@
 Add doppler-sync to your project
 
 ```sh
-$ npm install doppler-sync
+$ npm install @webkoils/doppler-sync
+#or
+$ yarn add @webkoils/doppler-sync
 ```
 
 <br/>
@@ -21,9 +23,9 @@ $ npm install doppler-sync
 Globally install doppler-sync
 
 ```sh
-$ npm install doppler-sync -g
+$ npm install @webkoils/doppler-sync -g
 #or
-$ yarn global add doppler-sync
+$ yarn global add @webkoils/doppler-sync
 ```
 
 Load Doppler secret values using DOPPLER_TOKEN in environment variables
@@ -35,7 +37,7 @@ $ doppler-sync
 Load Doppler config secret values using DOPPLER_TOKEN in javascript
 
 ```node.js
-import { getConfig } from "doppler-sync";
+import { getConfig } from "@webkoils/doppler-sync";
 let config = getConfig({
     token?: string,
     prefix?: string
